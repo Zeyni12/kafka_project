@@ -1,4 +1,5 @@
-# kafka-crash-course
+# kafka-project
+
 
 ### Install confluent-kafka dependency
 `pip3 install confluent-kafka`
